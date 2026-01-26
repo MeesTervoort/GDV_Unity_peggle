@@ -22,3 +22,7 @@ hier had ik de scripts voor punten, en dat de ballen verwijdert werden, en ik ha
 ![alt text](img/gdvPeggle.gif)
 ik heb alle graphics toegevoegd en gepolished
 en ook de code geschreven om de bobbieballen te laten verdwijnen en de muliplier voor meerdere ballen aanraken en de combo's.
+
+# **4.1** 
+![alt text](img\4.1.gif)
+hier heb ik mijn canvas laten werken, deze was kort maar ik had er nogsteeds verassend veel problemen mee- (opgelost :D)

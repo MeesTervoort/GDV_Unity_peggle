@@ -26,3 +26,7 @@ en ook de code geschreven om de bobbieballen te laten verdwijnen en de muliplier
 # **4.1** 
 ![alt text](img/4.1.gif)
 hier heb ik mijn canvas laten werken, deze was kort maar ik had er nogsteeds verassend veel problemen mee- (opgelost :D)
+
+# **4.2**
+![alt text](img/4.2.gif)
+na TE VEEL moeite heb ik eindelijk de multiplier en score laten werken (een stukje code zat in de weg) 

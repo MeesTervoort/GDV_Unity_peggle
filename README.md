@@ -27,10 +27,21 @@ en ook de code geschreven om de bobbieballen te laten verdwijnen en de muliplier
 ![alt text](img/4.1.gif)
 hier heb ik mijn canvas laten werken, deze was kort maar ik had er nogsteeds verassend veel problemen mee- (opgelost :D)
 
+Code
+[script](scripts\UIScoreboard.cs)
+
 # **4.2**
 ![alt text](img/4.2.gif)
 na TE VEEL moeite heb ik eindelijk de multiplier en score laten werken (een stukje code zat in de weg) 
 
+code
+[script](scripts\scoreManager.cs) scoremanager
+[script](scripts\ComboSystem.cs) combosystem
+
 # **5.2**
 ![alt text](img/5.2.gif)
 nu, verassend genoeg is het niet 5.1 maar 5.2 (ik heb geen idee waar 5.1 is) en ik heb nu de visual effects en sound effects- die ik nu realizeer dat je ze niet kan horen maar je moet me maar geloven hiermee er zijn honden die blaffen!
+
+code 
+[script](scripts\soundmanager.cs)
+[script](scripts\BumperHit.cs)
